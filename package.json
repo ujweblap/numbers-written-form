@@ -1,0 +1,19 @@
+{
+  "name": "numbers-written-form",
+  "version": "1.0.0",
+  "description": "Convert integer number to written format",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Bence Berényi <bence@ujweblap.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ujweblap/numbers-written-form.git"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
